@@ -16,15 +16,15 @@ The request from a client was to display a table organizing UFO data stored as a
 ## Results:
 ### Welcome to UFO Sightings! 
 
-![Pic 1](https://github.com/RoopaRaghav/UFOs/blob/main/static/images/top.PNG)
+![Pic 1](https://github.com/RoopaRaghav/UFOs/blob/53b30776eff49edd76ff31e5beff1c57370154d5/static/images/top.png)
 
 ### How the page appears when filters are applied:
-![Pic 2](https://github.com/RoopaRaghav/UFOs/blob/main/static/images/Output1.PNG)
+![Pic 2](https://github.com/RoopaRaghav/UFOs/blob/53b30776eff49edd76ff31e5beff1c57370154d5/static/images/Output1.png)
 
 ### How the filters appear after being used: 
 If the user enters the values in inoutbox the filters starts working after they click-off or press enter to initiate the filter and the right side the console log shows the requred output what filters are in working.To reset the filter criteria, click the UFO Sightings at the top left of the website or refresh the page. 
 
-![Pic 3](https://github.com/RoopaRaghav/UFOs/blob/main/static/images/Console_Ouput.PNG)
+![Pic 3](https://github.com/RoopaRaghav/UFOs/blob/53b30776eff49edd76ff31e5beff1c57370154d5/static/images/Console_Ouput.png)
 
 
 ## Summary: 
